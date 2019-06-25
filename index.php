@@ -3,7 +3,7 @@
    <head>
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <title>Soughtout Roofing</title>
+      <title>SoughtOut Roofing</title>
       <link rel="stylesheet" href="css/components.css">
       <link rel="stylesheet" href="css/responsee.css">
       <link rel="stylesheet" href="css/icons.css">
@@ -42,7 +42,7 @@
          <nav>
             <div class="line">
                <div class="s-12 l-2">
-                 <h6> <p class="logo"><strong>Soughtout</strong> <i>Roofing</i></p></h6>
+                 <h6> <p class="logo"><strong>SoughtOut</strong> <i>Roofing</i></p></h6>
 
                </div>
                <div class="top-nav s-12 l-10">
