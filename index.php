@@ -158,7 +158,7 @@
             </div>
             <article class="s-12 m-12 l-6">
                <h2>About<br>Soughtout<br>Roofing</h2>
-               <p>Soughtout roofing is a one man business with over 7 years experience in supplying aluminium and fibre roof system. We pride ourselves in using superb quality materials that offer a completely watertight roofing system for any environment.Soughtout Roofing Products can be fitted to any environment from  industrial, commercial and domestic market.
+               <p>Soughtout roofing is a business firm with over 7 years experience in supplying aluminium and fibre roof system. We pride ourselves in using superb quality materials that offer a completely watertight roofing system for any environment.Soughtout Roofing Products can be fitted to any environment from  industrial, commercial and domestic market.
                <div class="about-us-icons">
                   <i class="icon-paperplane_ico"></i> <i class="icon-trophy"></i> <i class="icon-clock"></i>
                </div>
@@ -297,10 +297,10 @@
                      </address>
                      <br />
                      <h3>Social</h3>
-                     <p><i class="icon-facebook icon"></i> <!-- <a href="https://www.facebook.com/pages/Vision-Design-graphic-ZOO/154664684553091">Vision Design - graphic zoo</a> --></p>
-                     <p><i class="icon-facebook icon"></i> <!-- <a href="https://www.facebook.com/myresponsee">Responsee</a>-->
+                     <p><i class="icon-instagram_circle"></i> <a href="https://www.instagram.com/">Instagram</a> </p>
+                     <p><i class="icon-facebook icon"></i> <a href="https://www.facebook.com/">Facebook</a>
                      </p>
-                     <p class="margin-bottom"><i class="icon-twitter icon"></i>  <!-- <a href="https://twitter.com/MyResponsee">Responsee</a> --></p>
+                     <p class="margin-bottom"><i class="icon-twitter icon"></i>  <a href="https://twitter.com">Twitter</a> </p>
                   </div>
                   <!-- <div class="s-12 m-12 l-5">
                     <h3>Example contact form (do not use)</h3>
