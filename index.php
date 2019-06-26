@@ -26,7 +26,7 @@
       <header>
          <div id="topbar">
             <div class="line">
-               <div class="m-6 l-6 hide-s">
+               <div class="m-6 l-6 hide-s hide-m hide-l">
                   <p>Site designer: <strong>09090202853</strong> | <strong>duzioristo@yahoo.com</strong></p>
                </div>
                <div class="s-12 m-6 l-6">
