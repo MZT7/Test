@@ -3,7 +3,7 @@
    <head>
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <title>SoughtOut Roofing</title>
+      <title>Soughtout Roofing</title>
       <link rel="stylesheet" href="css/components.css">
       <link rel="stylesheet" href="css/responsee.css">
       <link rel="stylesheet" href="css/icons.css">
@@ -26,8 +26,8 @@
       <header>
          <div id="topbar">
             <div class="line">
-               <div class="m-6 l-6 hide-s hide-m hide-l">
-                  <!--<p>Site designer: <strong>09090202853</strong> | <strong>duzioristo@yahoo.com</strong></p>-->
+               <div class="m-6 l-6 hide-s">
+                  <!-- <p>Site designer: <strong>09090202853</strong> | <strong>duzioristo@yahoo.com</strong></p> -->
                </div>
                <div class="s-12 m-6 l-6">
                   <div class="social right">
@@ -42,7 +42,7 @@
          <nav>
             <div class="line">
                <div class="s-12 l-2">
-                 <h6> <p class="logo"><strong>SoughtOut</strong> <i>Roofing</i></p></h6>
+                 <h6> <p class="logo"><strong>Soughtout</strong> <i>Roofing</i></p></h6>
 
                </div>
                <div class="top-nav s-12 l-10">
@@ -297,10 +297,11 @@
                      </address>
                      <br />
                      <h3>Social</h3>
-                     <p><i class="icon-instagram_circle"></i> <a href="https://www.instagram.com/">Instagram</a> </p>
-                     <p><i class="icon-facebook icon"></i> <a href="https://www.facebook.com/">Facebook</a>
+                     <p><i class="icon-instagram_circle"></i> <a href="https://www.Instagram.com/">Instagram</a></p>
+                     <p><i class="icon-facebook icon"></i>  <a href="https://www.facebook.com/Soughtoutroofing">Facebook</a>
                      </p>
-                     <p class="margin-bottom"><i class="icon-twitter icon"></i>  <a href="https://twitter.com">Twitter</a> </p>
+                     <p><i class="icon-message icon"></i> <a href="https://wa.me/2348069257764/">Whatsapp</a></p>
+                     <p class="margin-bottom"><i class="icon-twitter icon"></i>  <a href="https://twitter.com/">Twitter</a></p>
                   </div>
                   <!-- <div class="s-12 m-12 l-5">
                     <h3>Example contact form (do not use)</h3>
@@ -328,7 +329,7 @@
                <p></p>
             </div>
             <div class="s-12 l-6">
-               <a class="right" href="" title="Responsee - lightweight responsive framework">Design and coding<br> by Mezu</a>
+               <a class="right" href="http://www.myresponsee.com" title="Responsee - lightweight responsive framework">Design and coding<br> by Mezu</a>
             </div>
          </div>
       </footer>
